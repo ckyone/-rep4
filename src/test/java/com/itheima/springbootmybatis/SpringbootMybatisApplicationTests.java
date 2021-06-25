@@ -22,6 +22,9 @@ class SpringbootMybatisApplicationTests {
     @Test
     void test(){
         System.out.println ("这是第二次尝试");
+    }  @Test
+    void test3(){
+        System.out.println ("这是第二次尝试");
     }
 
 }
